@@ -1,6 +1,6 @@
 LEVEL 2 - INTERMEDIATE 🔹 Task 1: To-Do List Application
 
-This is a simple To-Do List application built using Python. The program allows users to add tasks, view tasks, mark tasks as completed, and delete tasks.
+The To-Do List Application is a Python-based program designed to help users manage their daily tasks efficiently. The application allows users to add new tasks, view existing tasks, mark tasks as completed, and delete tasks. It uses basic Python concepts such as lists, loops, conditional statements, and file handling to store and manage tasks.This project was developed as part of my Python Development Internship at Codveda Technologies to strengthen my understanding of Python fundamentals and real-world application development.
 
     import json
     import os
